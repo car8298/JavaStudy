@@ -3,7 +3,7 @@ package ch05;
 public class Solution_stick {
 	public static void main(String[] args) {
 		int[] stick = { 5, 4, 4, 2, 2, 8 };
-
+		// 4. while(true) 를 사용하여 반복하다가 갯수가 1이 남았을때 멈추기
 		while (true) {
 			// 1. 0보다 큰 배열 요소의 개수를 출력
 			int count = 0;

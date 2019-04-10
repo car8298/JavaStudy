@@ -15,6 +15,10 @@ public class HomeWork {
 				stick[i] = stick[i] - min;
 				if(i >= 0
 						)
+					/*1. 0보다 큰 배열 요소의 갯수를 출력
+					2 배열 요소중에서 0을 제외하고 가장 작운 수를 찾아냄
+					3. 가장 작은 수로 모든 배열 요소 값을 감소
+					4. while(true)를 사용하여 반복하다가 배열 요소의 개수가 1개가 남았을때 종료; */
 
 				System.out.println(stick[i]);
 		}
